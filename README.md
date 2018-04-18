@@ -7,5 +7,16 @@ The evaluation code of msmt17. The code is modified from http://www.liangzheng.o
 ## The state-of-the-art methods on MSMT17
 - The state-of-the-art methods on msmt17 are summarized in the page http://www.pkuvmc.com/publications/state_of_the_art.html
 
+## Citation
+Please cite our paper in your publications if it helps your research:
+```
+@inproceedings{wei2018cvpr,
+  title={Person Transfer GAN to Bridge Domain Gap for Person Re-Identification},
+  author={Wei, Longhui and Zhang, Shiliang and Gao, Wen and Tian, Qi},
+  booktitle={CVPR},
+  year={2018}
+}
+```
+
 
 
