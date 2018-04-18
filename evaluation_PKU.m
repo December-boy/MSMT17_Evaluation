@@ -21,7 +21,7 @@ query_CAM = importdata('data/query_CAM.mat');
 
 query_feature = load('your_query_feature');
 query_feature = query_feature';
-gallery_feature = load('your_gallyer_feature');
+gallery_feature = load('your_gallery_feature');
 gallery_feature = gallery_feature';
 
 
